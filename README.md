@@ -1,7 +1,5 @@
-# 180_Projects-for-Development
-
 # Hello
-and
+# And
 # Welcome to Roast with Tyagi 
 
 # Copowered by Lord Krishna
